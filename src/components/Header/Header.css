@@ -1,0 +1,27 @@
+header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    box-shadow: 1px 1px 1px 1px black;
+    color: white;
+}
+.cart-icon
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    background-color: white;    
+}
+.cart-icon:hover
+{
+    background-color: rgb(0, 0, 190);
+}
+.cart-icon:hover svg
+{
+    fill: white;
+
+}

@@ -1,0 +1,14 @@
+.categories
+{
+    margin: 1rem;
+    grid-column: 1 / 2;
+}
+.categories ul
+{
+    list-style: none;
+}
+.categories ul li
+{
+    font-size: 1.5rem;
+    color: rgb(161, 161, 0);
+}
